@@ -1,0 +1,6 @@
+baseURL = 'https://jaray.foo/'
+languageCode = 'en-au'
+title = 'jaray.foo'
+theme = 'risotto'
+[params]
+palette = 'tokyo-night-dark'
